@@ -7,6 +7,7 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_01_Basics** - Basic setup and verification scripts
 - **chapter_02_Javascript_Concepts** - JavaScript fundamentals
 - **chapter_03_Identifier_Literals** - Identifier rules, literals, and comments
+- **chapter_04_JavaScript_Concepts** - Variables, scope, hoisting, and functions
 
 ## Files
 
@@ -18,6 +19,15 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_03_Identifier_Literals/06_Identifier_Rules.js` | Identifier rules |
 | `chapter_03_Identifier_Literals/07_Identifier_Rules2.js` | Identifier rules with examples |
 | `chapter_03_Identifier_Literals/08_Comments.js` | Comments in JavaScript |
+| `chapter_04_JavaScript_Concepts/09_var_let_const.js` | var, let, and const comparison |
+| `chapter_04_JavaScript_Concepts/10_Function.js` | Functions in JavaScript |
+| `chapter_04_JavaScript_Concepts/11_variable_Explained.js` | Variables explained |
+| `chapter_04_JavaScript_Concepts/12_let_people_love.js` | Why developers prefer let |
+| `chapter_04_JavaScript_Concepts/13_const_explained.js` | const explained |
+| `chapter_04_JavaScript_Concepts/14_var_functionscope.js` | var function scope |
+| `chapter_04_JavaScript_Concepts/15_let_scope.js` | let block scope |
+| `chapter_04_JavaScript_Concepts/16_Hoisting.js` | Hoisting concept |
+| `chapter_04_JavaScript_Concepts/17_hoisting_function.js` | Function hoisting |
 
 ## How to Run
 
@@ -34,3 +44,7 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Naming conventions (camelCase, UPPER_CASE)
 - Comments (single-line and multi-line)
 - JavaScript literals
+- Variables: `var`, `let`, and `const`
+- Function scope vs block scope
+- Hoisting (variables and functions)
+- Functions in JavaScript
