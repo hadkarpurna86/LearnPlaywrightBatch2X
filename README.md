@@ -55,6 +55,9 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_06_Operators/42_typeof_operator.js` | typeof operator |
 | `chapter_06_Operators/43_Increment_Decrement_op.js` | Increment and decrement |
 | `chapter_06_Operators/44_Null_operator.js` | Nullish coalescing operator |
+| `chapter_06_Operators/45_Post_increment.js` | Post increment examples |
+| `chapter_06_Operators/46_IQ_Increment.js` | Interview questions on increment |
+| `chapter_06_Operators/47_Incre_Decre_Advanced.js` | Advanced increment and decrement |
 
 ## How to Run
 
@@ -77,4 +80,4 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Functions in JavaScript
 - Literals: null, undefined, numbers (hex, octal, binary, exponential, BigInt)
 - Strings: single quote, double quote, backtick (template literals)
-- Operators: arithmetic, comparison (== vs ===), logical, ternary, typeof, increment/decrement, nullish coalescing
+- Operators: arithmetic, comparison (== vs ===), logical, ternary, typeof, increment/decrement (pre and post), advanced increment/decrement, nullish coalescing
