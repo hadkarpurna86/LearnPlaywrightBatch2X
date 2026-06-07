@@ -9,6 +9,7 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_03_Identifier_Literals** - Identifier rules, literals, and comments
 - **chapter_04_JavaScript_Concepts** - Variables, scope, hoisting, and functions
 - **chapter_05_Literal** - JavaScript literals: null, undefined, numbers, strings
+- **chapter_06_Operators** - JavaScript operators: arithmetic, comparison, logical, ternary, typeof
 
 ## Files
 
@@ -39,6 +40,21 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_05_Literal/25_literals_all.js` | All literals |
 | `chapter_05_Literal/26_Literal_Number_all.js` | All number types |
 | `chapter_05_Literal/29_Backtick_single_double.js` | Backtick vs single/double quotes |
+| `chapter_06_Operators/30_opertors.js` | Operators overview |
+| `chapter_06_Operators/31_Arithmetic_operators.js` | Arithmetic operators |
+| `chapter_06_Operators/32_Modulus_OP.js` | Modulus operator |
+| `chapter_06_Operators/33_Exponential_op.js` | Exponential operator |
+| `chapter_06_Operators/34_IQ.js` | Interview questions |
+| `chapter_06_Operators/35_Comparision_op.js` | Comparison operators |
+| `chapter_06_Operators/36_Comparision_strict_loose.js` | Strict vs loose comparison |
+| `chapter_06_Operators/37_loose_vs_Strict.js` | Loose vs strict equality |
+| `chapter_06_Operators/38_confusing_comparisions.js` | Confusing comparison cases |
+| `chapter_06_Operators/39_Logical_op.js` | Logical operators |
+| `chapter_06_Operators/40_String_concatenation_op.js` | String concatenation |
+| `chapter_06_Operators/41_ternary_operator.js` | Ternary operator |
+| `chapter_06_Operators/42_typeof_operator.js` | typeof operator |
+| `chapter_06_Operators/43_Increment_Decrement_op.js` | Increment and decrement |
+| `chapter_06_Operators/44_Null_operator.js` | Nullish coalescing operator |
 
 ## How to Run
 
@@ -61,3 +77,4 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Functions in JavaScript
 - Literals: null, undefined, numbers (hex, octal, binary, exponential, BigInt)
 - Strings: single quote, double quote, backtick (template literals)
+- Operators: arithmetic, comparison (== vs ===), logical, ternary, typeof, increment/decrement, nullish coalescing
