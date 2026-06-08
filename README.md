@@ -10,6 +10,9 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_04_JavaScript_Concepts** - Variables, scope, hoisting, and functions
 - **chapter_05_Literal** - JavaScript literals: null, undefined, numbers, strings
 - **chapter_06_Operators** - JavaScript operators: arithmetic, comparison, logical, ternary, typeof
+- **chapter_07_IF_Else** - If-else statements, nested if-else, real-life examples
+- **chapter_08_Switch_statement** - Switch statements, case grouping, fall-through, default
+- **chapter_09_user_input.js** - User input methods in JavaScript
 
 ## Files
 
@@ -59,6 +62,29 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_06_Operators/46_IQ_Increment.js` | Interview questions on increment |
 | `chapter_06_Operators/47_Incre_Decre_Advanced.js` | Advanced increment and decrement |
 | `chapter_06_Operators/47_Task_18May.js` | Tasks: ternary operator and increment/decrement |
+| `chapter_07_IF_Else/48_if_else.js` | Basic if-else statement |
+| `chapter_07_IF_Else/49_if_elseif_else.js` | If-else-if ladder (grade system) |
+| `chapter_07_IF_Else/50_RealEx_if_else.js` | Real-life example: user roles |
+| `chapter_07_IF_Else/51_API_if_else.js` | API status code validation |
+| `chapter_07_IF_Else/52_IQ_if_else.js` | Interview questions |
+| `chapter_07_IF_Else/53_RealEx_if_else2.js` | Real-life example |
+| `chapter_07_IF_Else/54_IQ.js` | Interview question (single if) |
+| `chapter_07_IF_Else/55_IE.js` | Empty if block example |
+| `chapter_07_IF_Else/56_20MayTask1_even_Odd.js` | Task: Even or Odd check |
+| `chapter_07_IF_Else/57_20MayTask2_GradeCal.js` | Task: Student Grade Calculator |
+| `chapter_07_IF_Else/58_20MayTask3_Leap_year.js` | Task: Leap Year Check |
+| `chapter_08_Switch_statement/59_switch.js` | Basic switch statement |
+| `chapter_08_Switch_statement/60_NoBreak.js` | Switch without break (fall-through) |
+| `chapter_08_Switch_statement/61_Default.js` | Switch with default case |
+| `chapter_08_Switch_statement/62_RealLife_Example_Switch.js` | API response code validation |
+| `chapter_08_Switch_statement/63_switch_group.js` | Grouped cases (browser engines) |
+| `chapter_08_Switch_statement/64_IQ1.js` | Interview question (fruit switch, no break) |
+| `chapter_08_Switch_statement/65_IQ2.js` | Interview question (switch with true expression) |
+| `chapter_08_Switch_statement/66_IQ3.js` | Interview question (duplicate cases) |
+| `chapter_08_Switch_statement/67_IQ4.js` | Interview question (strict equality in switch) |
+| `chapter_09_user_input.js/68_User_input.js` | Browser prompt for user input |
+| `chapter_09_user_input.js/69_node_readline.js` | Node.js readline user input |
+| `chapter_09_user_input.js/70_prompt_sync.js` | prompt-sync package for user input |
 
 ## How to Run
 
@@ -82,3 +108,6 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Literals: null, undefined, numbers (hex, octal, binary, exponential, BigInt)
 - Strings: single quote, double quote, backtick (template literals)
 - Operators: arithmetic, comparison (== vs ===), logical, ternary, typeof, increment/decrement (pre and post), advanced increment/decrement, nullish coalescing
+- If-else statements, nested if-else, if-else-if ladder, real-life examples (API validation, user roles)
+- Switch statements, case grouping, fall-through, default case, real-life examples (API response codes)
+- User input methods: browser prompt, Node.js readline, prompt-sync
