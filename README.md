@@ -13,6 +13,7 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_07_IF_Else** - If-else statements, nested if-else, real-life examples
 - **chapter_08_Switch_statement** - Switch statements, case grouping, fall-through, default
 - **chapter_09_user_input.js** - User input methods in JavaScript
+- **chapter_10_Loops** - Loops in JavaScript: for, while, do-while, continue
 
 ## Files
 
@@ -85,6 +86,18 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_09_user_input.js/68_User_input.js` | Browser prompt for user input |
 | `chapter_09_user_input.js/69_node_readline.js` | Node.js readline user input |
 | `chapter_09_user_input.js/70_prompt_sync.js` | prompt-sync package for user input |
+| `chapter_10_Loops/71_for_loop.js` | Introduction to for loop (repetition) |
+| `chapter_10_Loops/72_for_loop2.js` | Basic for loop example |
+| `chapter_10_Loops/73_for_loop3.js` | For loop with different variable names |
+| `chapter_10_Loops/74_IQ.js` | Interview questions on for loop (false condition, infinite loop) |
+| `chapter_10_Loops/75_For_Of_In_each.js` | For-of, for-in, forEach examples |
+| `chapter_10_Loops/76_while_loop.js` | Basic while loop example |
+| `chapter_10_Loops/77_Do_while_loop.js` | Do-while loop (executes at least once) |
+| `chapter_10_Loops/78_Do_while_loop2.js` | Do-while loop example |
+| `chapter_10_Loops/79_IQ1.js` | Interview question: while loop countdown |
+| `chapter_10_Loops/80_IQ2.js` | Interview question: do-while loop |
+| `chapter_10_Loops/81_IQ3.js` | Interview question: continue statement in for loop |
+| `chapter_10_Loops/82_IQ4.js` | Interview question: while vs do-while behavior |
 
 ## How to Run
 
@@ -111,3 +124,4 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - If-else statements, nested if-else, if-else-if ladder, real-life examples (API validation, user roles)
 - Switch statements, case grouping, fall-through, default case, real-life examples (API response codes)
 - User input methods: browser prompt, Node.js readline, prompt-sync
+- Loops: for loop, while loop, do-while loop, continue statement, loop interview questions
