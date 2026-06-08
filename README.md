@@ -58,6 +58,7 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_06_Operators/45_Post_increment.js` | Post increment examples |
 | `chapter_06_Operators/46_IQ_Increment.js` | Interview questions on increment |
 | `chapter_06_Operators/47_Incre_Decre_Advanced.js` | Advanced increment and decrement |
+| `chapter_06_Operators/47_Task_18May.js` | Tasks: ternary operator and increment/decrement |
 
 ## How to Run
 
