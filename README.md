@@ -14,6 +14,7 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_08_Switch_statement** - Switch statements, case grouping, fall-through, default
 - **chapter_09_user_input.js** - User input methods in JavaScript
 - **chapter_10_Loops** - Loops in JavaScript: for, while, do-while, continue
+- **chapter_11_Arrays** - Arrays: creation, access, modification, searching, iteration, transformation
 
 ## Files
 
@@ -98,6 +99,15 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_10_Loops/80_IQ2.js` | Interview question: do-while loop |
 | `chapter_10_Loops/81_IQ3.js` | Interview question: continue statement in for loop |
 | `chapter_10_Loops/82_IQ4.js` | Interview question: while vs do-while behavior |
+| `chapter_11_Arrays/83_arrays.js` | Arrays basics and mixed types |
+| `chapter_11_Arrays/84_create_array.js` | Creating arrays: literal, constructor, Array.of, Array.from |
+| `chapter_11_Arrays/85_Access_array.js` | Accessing and modifying arrays, .at() method |
+| `chapter_11_Arrays/86_Array_Adding_Removing.js` | Adding/removing elements: push, pop, unshift, shift |
+| `chapter_11_Arrays/87_Adding_Remove2.js` | splice: insert, delete, replace elements |
+| `chapter_11_Arrays/88_REAL_Example.js` | Real-life example: browser list management |
+| `chapter_11_Arrays/89_Searching.js` | Searching arrays: indexOf, lastIndexOf, includes, find, findIndex, findLast |
+| `chapter_11_Arrays/90_Iterate.js` | Iterating arrays: for, for...of, forEach, for...in, entries |
+| `chapter_11_Arrays/91_Transform_Array.js` | Transforming arrays: map, filter, reduce, flat |
 
 ## How to Run
 
@@ -125,3 +135,4 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Switch statements, case grouping, fall-through, default case, real-life examples (API response codes)
 - User input methods: browser prompt, Node.js readline, prompt-sync
 - Loops: for loop, while loop, do-while loop, continue statement, loop interview questions
+- Arrays: creation (literal, constructor, Array.of, Array.from), accessing and modifying elements, push/pop/unshift/shift, splice, searching (indexOf, lastIndexOf, includes, find, findIndex, findLast), iteration (for, for...of, forEach, for...in, entries), transformation (map, filter, reduce, flat)
