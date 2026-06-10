@@ -15,6 +15,7 @@ This repository contains learning materials and code examples for JavaScript con
 - **chapter_09_user_input.js** - User input methods in JavaScript
 - **chapter_10_Loops** - Loops in JavaScript: for, while, do-while, continue
 - **chapter_11_Arrays** - Arrays: creation, access, modification, searching, iteration, transformation
+- **chapter_12_Functions** - Functions: declaration, parameters, return types, function expressions, arrow functions
 
 ## Files
 
@@ -108,6 +109,18 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_11_Arrays/89_Searching.js` | Searching arrays: indexOf, lastIndexOf, includes, find, findIndex, findLast |
 | `chapter_11_Arrays/90_Iterate.js` | Iterating arrays: for, for...of, forEach, for...in, entries |
 | `chapter_11_Arrays/91_Transform_Array.js` | Transforming arrays: map, filter, reduce, flat |
+| `chapter_11_Arrays/92_arrays.sort.js` | Sorting arrays: sort, numeric compare (ascending/descending) |
+| `chapter_11_Arrays/93_Array_Sliing.js` | Slicing arrays: slice method with positive and negative indices |
+| `chapter_11_Arrays/94_concat_array.js` | Concatenating arrays: concat, spread operator, join |
+| `chapter_11_Arrays/95_Array_checking.js` | Array checking: isArray, every, some |
+| `chapter_12_Functions/96_functions.js` | Functions overview |
+| `chapter_12_Functions/97_Basic_function_Type1.js` | Basic function: no parameters, no return |
+| `chapter_12_Functions/98_Fun_withParam_noReturn_Type2.js` | Function with parameters, no return |
+| `chapter_12_Functions/99_Fun_noParam_withReturnType3.js` | Function with no parameters, with return |
+| `chapter_12_Functions/100_Fun_withParam_withReturnType4.js` | Function with parameters and return value |
+| `chapter_12_Functions/101_Func_Template_literal.js` | Function returning template literals |
+| `chapter_12_Functions/102_Function_Expression.js` | Function expressions |
+| `chapter_12_Functions/103_Arrow_Functions.js` | Arrow functions (ES6) |
 
 ## How to Run
 
@@ -135,4 +148,5 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Switch statements, case grouping, fall-through, default case, real-life examples (API response codes)
 - User input methods: browser prompt, Node.js readline, prompt-sync
 - Loops: for loop, while loop, do-while loop, continue statement, loop interview questions
-- Arrays: creation (literal, constructor, Array.of, Array.from), accessing and modifying elements, push/pop/unshift/shift, splice, searching (indexOf, lastIndexOf, includes, find, findIndex, findLast), iteration (for, for...of, forEach, for...in, entries), transformation (map, filter, reduce, flat)
+- Arrays: creation (literal, constructor, Array.of, Array.from), accessing and modifying elements, push/pop/unshift/shift, splice, searching (indexOf, lastIndexOf, includes, find, findIndex, findLast), iteration (for, for...of, forEach, for...in, entries), transformation (map, filter, reduce, flat), sorting, slicing, concatenation, checking (isArray, every, some)
+- Functions: declaration, calling, parameters, return values, function expressions, arrow functions, template literals in functions
