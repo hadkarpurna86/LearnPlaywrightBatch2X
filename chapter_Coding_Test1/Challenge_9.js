@@ -1,7 +1,7 @@
 function buildJsBasicsRunLabel(suiteName, environment, buildNumber) {
   // write your code here
   let trimSui = suiteName.trim();
-  let newEnv = environment.toLowerCase();
+  let newEnv = environment.trim().toLowerCase();
   let newBuild = `build-${buildNumber}`;
 
   return `${trimSui} | ${newEnv} | ${newBuild}`;
