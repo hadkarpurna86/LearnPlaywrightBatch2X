@@ -121,6 +121,20 @@ This repository contains learning materials and code examples for JavaScript con
 | `chapter_12_Functions/101_Func_Template_literal.js` | Function returning template literals |
 | `chapter_12_Functions/102_Function_Expression.js` | Function expressions |
 | `chapter_12_Functions/103_Arrow_Functions.js` | Arrow functions (ES6) |
+| `chapter_12_Functions/104_Arrow_fun_realExample.js` | Arrow functions in automation (status code validation) |
+| `chapter_12_Functions/105_IIFE.js` | Immediately Invoked Function Expressions (IIFE) |
+| `chapter_12_Functions/106_Default_Param_Function.js` | Default parameters in functions |
+| `chapter_12_Functions/107_IQ1.js` | Interview question: function return values |
+| `chapter_12_Functions/108_Rest_Param_Function.js` | Rest parameters in functions |
+| `chapter_12_Functions/109_IQ2.js` | Interview question: function expressions and hoisting |
+| `chapter_12_Functions/110_spread_IQ3.js` | Interview question: spread operator with functions |
+| `chapter_12_Functions/111_scope_fun.js` | Function scope: global vs local scope |
+| `chapter_12_Functions/112_IQ4.js` | Interview question: nested function scope |
+| `chapter_12_Functions/113_Closure.js` | Closures: basic concept |
+| `chapter_12_Functions/114_Closure2.js` | Closures: counter example |
+| `chapter_12_Functions/115_API_RealExample_Closure.js` | Real-life example: API retry tracker with closure |
+| `chapter_12_Functions/116_Higher_Order_Fun.js` | Higher-order functions |
+| `chapter_12_Functions/117_Pure_Function.js` | Pure functions vs impure functions |
 
 ## How to Run
 
@@ -150,3 +164,10 @@ node chapter_03_Identifier_Literals/07_Identifier_Rules2.js
 - Loops: for loop, while loop, do-while loop, continue statement, loop interview questions
 - Arrays: creation (literal, constructor, Array.of, Array.from), accessing and modifying elements, push/pop/unshift/shift, splice, searching (indexOf, lastIndexOf, includes, find, findIndex, findLast), iteration (for, for...of, forEach, for...in, entries), transformation (map, filter, reduce, flat), sorting, slicing, concatenation, checking (isArray, every, some)
 - Functions: declaration, calling, parameters, return values, function expressions, arrow functions, template literals in functions
+- Arrow functions in automation testing
+- IIFE (Immediately Invoked Function Expressions)
+- Default parameters and rest parameters
+- Function scope: global vs local, nested scope
+- Closures: basic concept, counter example, real-life API retry tracker
+- Higher-order functions
+- Pure functions vs impure functions

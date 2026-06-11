@@ -22,3 +22,20 @@ console.log(50);
 
 const printIt = name => console.log(name);
 printIt("Hermoine");
+
+
+function add(a, b){
+    return a + b;
+}
+
+// => Arrow function -- single line
+const sum = (a,b) => a+b;
+
+const sayHi = () => console.log("Hi");
+sayHi();
+
+// => Arrow function -- Multi line
+const greet = (name3) => {
+    const message = "hi " + name3;
+    return message;
+} 
